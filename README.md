@@ -8,6 +8,7 @@
   
   Projeto feito por mim utilizando Javascript, html e bootstrap. O foco do projeto nao era o css, entao optei por um design mais simples e o bootstrap no lugar da codificação css.
   Como um projeto para praticar a *__Orientação a objetos em Js__*, o foco do projeto é a *__POO__*, além disso, devido ao fato de ainda não ter conhecimentos sólidos com banco de dados, simulei um usando uma classe e armazenamento local com Jason.
+
 <hr/>
 
 ### Classe em destaque
@@ -89,7 +90,25 @@
 }
     
   ```
-  
+<hr/>
+
   ### Desafios enfrentados
-  * item1
-  * item2
+  * Gravar dados localmente
+  * Manipulação do DOM
+  * Exclusão de despesas
+
+<hr/>
+
+  ### Como usar o site?
+  * Preencha os campos de acordo com as respectivas informações
+  * clique no '+' em azul para cadastrar a despesa
+  * se a despesa for cadastrada corretamente, voce receberá uma mensagem informando
+  * Para consultar as despesas clique em 'consulta' no canto superior esquerdo
+  * caso queira recuperar alguma consulta em especifico, basta descreve-la nos respectivos campos e apertar na 🔎
+
+<hr/>
+
+  ### Proximas atualizações
+  - [ ] Adicionar um banco de dados
+  - [ ] Adicionar anos dinamicos
+  - [ ] Adicionar validação de dados para dia
